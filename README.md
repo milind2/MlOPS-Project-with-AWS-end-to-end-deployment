@@ -1,4 +1,4 @@
-MlOPS-Project-with-AWS-end-to-end-deployment
+MlOPS-Project-with-AWS-end-to-end-deployments
 ==============================
 
 end to end Mlops project with deployment on AWS
