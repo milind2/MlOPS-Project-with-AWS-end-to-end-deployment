@@ -1,7 +1,7 @@
-MlOPS-Project-with-AWS-end-to-end-deployments
+MLOPS-Project-with-AWS-end-to-end-deployments
 ==============================
 
-end to end Mlops project with deployment on AWS
+End to end MLOPS project with deployment on AWS EKS
 
 Project Organization
 ------------
